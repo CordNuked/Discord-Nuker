@@ -1,0 +1,3 @@
+Credits to 
+-Cord Nuker for coding python
+- Yua for coding the gui 

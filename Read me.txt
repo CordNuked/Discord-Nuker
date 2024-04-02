@@ -1,0 +1,6 @@
+Features
+ Delete Channels
+ Ban All Members
+ Delete Roles
+ Create Channels
+ Create Roles
